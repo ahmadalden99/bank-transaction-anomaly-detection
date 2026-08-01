@@ -1,0 +1,75 @@
+Feature,Importance
+IsHighLoginAttempts,0.14822763
+LoginAttempts,0.098211296
+Amount_to_TypeChannelBalanceGroupAvg_Ratio,0.0840341
+MerchantTxCount,0.059883334
+CustomerOccupation_Student,0.05423084
+IPTxCount,0.052054323
+Amount_to_Balance_Ratio,0.0440451
+TransactionType_Debit,0.039199997
+Location_Dallas,0.036513567
+Hour_cos,0.031153599
+TransactionAmount,0.030392576
+TransactionType_Credit,0.023252476
+Hour_sin,0.022896226
+IsLongDuration,0.02075107
+CustomerOccupation_Engineer,0.019811684
+TransactionDuration,0.018810177
+Location_Austin,0.017339202
+AccountTxCount,0.017164188
+Location_Kansas City,0.015459248
+AccountBalance,0.0146326795
+DeviceTxCount,0.014411429
+DayOfWeek_cos,0.0135310255
+Location_Philadelphia,0.01243428
+Channel_Branch,0.012167965
+Channel_ATM,0.011945915
+CustomerOccupation_Retired,0.010508536
+DayOfWeek_sin,0.010233102
+Month_sin,0.009695884
+CustomerAge,0.008961348
+Month_cos,0.008494681
+Location_Miami,0.007663842
+Location_Atlanta,0.0072854958
+BalanceGroup_ByType_Medium,0.0059675938
+Location_Columbus,0.005161816
+Location_Las Vegas,0.0049759285
+CustomerOccupation_Doctor,0.0048699896
+Channel_Online,0.0036278025
+Location_Albuquerque,0.0
+Location_Charlotte,0.0
+Location_Boston,0.0
+Location_Colorado Springs,0.0
+Location_Baltimore,0.0
+Location_Jacksonville,0.0
+Location_Indianapolis,0.0
+Location_Houston,0.0
+Location_Fresno,0.0
+Location_Fort Worth,0.0
+Location_El Paso,0.0
+Location_Detroit,0.0
+Location_Denver,0.0
+Location_Chicago,0.0
+Location_Milwaukee,0.0
+Location_Oklahoma City,0.0
+Location_Nashville,0.0
+Location_Louisville,0.0
+Location_Memphis,0.0
+Location_Mesa,0.0
+Location_Los Angeles,0.0
+Location_Raleigh,0.0
+Location_Portland,0.0
+Location_Phoenix,0.0
+Location_Omaha,0.0
+Location_New York,0.0
+Location_Sacramento,0.0
+Location_San Diego,0.0
+Location_San Antonio,0.0
+Location_Virginia Beach,0.0
+Location_Tucson,0.0
+Location_Seattle,0.0
+Location_San Jose,0.0
+Location_San Francisco,0.0
+Location_Washington,0.0
+BalanceGroup_ByType_Low,0.0
+BalanceGroup_ByType_High,0.0
